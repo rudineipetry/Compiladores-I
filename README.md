@@ -12,7 +12,7 @@ O programa lê um arquivo-fonte escrito em **C-** (`codigo.cminus`) e exibe na t
 1. **Baixe ou clone** este repositório:
 
    ```bash
-   git clone https://github.com/rudineimaggioni/scanner-cmenos.git
+   git clone https://github.com/rudineipetry/Compiladores-I
    ```
 
 2. **Certifique-se de ter o compilador GCC instalado** (caso queira recompilar o código).
