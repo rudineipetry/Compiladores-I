@@ -81,7 +81,7 @@ Tipo de Marca: EOF             | Cadeia:
 ## 🧠 Sobre
 
 * Linguagem: **C**
-* Autores: **Rudinei Petry Maggioni, João Lucas Dantas, João Gabriel Barbosa, Pedro Sant'ana Vendruscolo**
+* Autores: **Rudinei Petry Maggioni, João Lucas Dantas, João Gabriel Barbosa, Pedro Sant'ana Vendruscolo, Cristian Martinelle**
 * Baseado na obra: *Kenneth C. Louden — Compiladores: Princípios e Práticas*
 * Arquivo principal: `scanner_cmenos.c`
 * Executável: `scanner_cmenos.exe`
